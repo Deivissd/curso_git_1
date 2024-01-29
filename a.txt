@@ -1,4 +1,2 @@
-testando
-uma
-atualização
-de arquivo
+teste
+de uso
